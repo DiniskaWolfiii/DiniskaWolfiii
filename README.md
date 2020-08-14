@@ -14,6 +14,6 @@
 * Loves Memes
 
 ## Contact
-Discord: Wolfiii#1812<\br>
-Neko Email: wolfiii@neko-dev.de<\br>
+Discord: Wolfiii#1812\
+Neko Email: wolfiii@neko-dev.de\
 [Neko Dev Discord Server](https://discord.gg/QBrqEUG)
