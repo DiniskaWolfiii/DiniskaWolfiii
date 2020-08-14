@@ -1,4 +1,4 @@
-### Personal Things
+## Personal Things
 
 * Name: Dennis
 * 19 y/o
@@ -8,7 +8,12 @@
 * Last line of code was 1 year ago
 * Admin of the [Neko Dev Hood](https://github.com/Neko-Developments)
 
-### Some Facts of me
+## Some Facts of me
 
 * Has a deep sense of humor
 * Loves Memes
+
+## Contact
+Discord: Wolfiii#1812
+Neko Email: wolfiii@neko-dev.de
+[Neko Dev Discord Server](https://discord.gg/QBrqEUG)
