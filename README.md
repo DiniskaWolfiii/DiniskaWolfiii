@@ -11,6 +11,7 @@
 
 * Has a deep sense of humor
 * Loves Memes
+* Motorcyclist
 
 ## Contact
 Discord: Wolfiii#1812\
