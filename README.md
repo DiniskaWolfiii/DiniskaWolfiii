@@ -11,7 +11,7 @@
 * Has a deep sense of humor
 * Loves Memes
 * Motorcyclist
-* Pizza Hawaii is a crime
+* Pizza Hawaii is a crime to humanity
 
 ## Contact
 Discord: Wolfiii#1812\
