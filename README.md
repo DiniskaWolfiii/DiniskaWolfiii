@@ -6,13 +6,9 @@
 * Languages: JS, C#, Assembler, HTML, CSS, PHP
 * Can code, but I don't because im more in Operations/DevOp and Systemadministration as coding
 
-## Some Facts of me
+## Some Facts about me
 
 * Has a deep sense of humor
 * Loves Memes
 * Motorcyclist
 * Pizza Hawaii is a crime to humanity
-
-## Contact
-Discord: wolfiii
-E-Mail: wolfiii@wolfiii.de
