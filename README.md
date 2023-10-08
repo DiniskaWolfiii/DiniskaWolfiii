@@ -14,5 +14,5 @@
 * Pizza Hawaii is a crime to humanity
 
 ## Contact
-Discord: Wolfiii#1812\
+Discord: wolfiii
 E-Mail: wolfiii@wolfiii.de
