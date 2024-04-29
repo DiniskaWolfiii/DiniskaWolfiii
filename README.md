@@ -8,7 +8,7 @@
 
 ## Some Facts about me
 
-* Has a deep sense of humor
+* Has a deep sense of dark humor
 * Loves Memes
 * Motorcyclist
 * Pizza Hawaii is a crime to humanity
