@@ -3,7 +3,7 @@
 * Name: Dennis
 * 23 y/o
 * Born in Zwickau, raised in Ulm, living in a village near Ulm
-* Languages: JS, C#, Assembler, HTML, CSS, PHP
+* Languages: JS, C#, Assembler, HTML, CSS, PHP, Python
 * Can code, but I don't because im more in Operations/DevOp and Systemadministration as coding
 
 ## Some Facts about me
