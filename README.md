@@ -1,6 +1,6 @@
 ## Personal Things
 
-* Name: Dennis
+* Name: Wolfiii
 * 24 y/o
 * Born in Zwickau, raised in Ulm, living in a village near Ulm
 * Languages: JS, C#, Assembler, HTML, CSS, PHP, Python, German, English
